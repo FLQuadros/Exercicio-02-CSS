@@ -1,0 +1,229 @@
+body {
+    background-image: url(/Img/Brasil.jfif);
+    background-size: contain;
+
+}
+
+.div-h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.sec{
+    padding: 30px;
+    width: 20%;
+    height: 400;
+    
+}
+
+.d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17, .d18, .d19, .d20, .d21, .d22, .d23, .d24, .d25, .d26, .d27 {
+
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px;
+
+
+}
+
+.h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    text-decoration: underline;
+}
+
+
+
+section {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.d1{
+    background-image: url(/Img/Rio\ branco.jpg);
+    background-size: cover;
+    border-radius: 10% 0 10% 0;
+}
+
+.d2{
+    background-image: url(/Img/Maceió.jpg);
+    background-size: cover;
+    border-radius: 0 10% 10% 0;
+}
+
+.d3{
+    background-image: url(/Img/Macapá.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 10% 0;
+}
+
+.d4{
+    background-image: url(/Img/Manaus.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 10% 0;
+}
+
+.d5{
+    background-image: url(/Img/Salvador.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 10% 0;
+}
+
+.d6{
+    background-image: url(/Img/Fortaleza.jpg);
+    background-size: cover;
+    border-radius: 0 10% 0 10%;
+}
+
+.d7{
+    background-image: url(/Img/Brasilia.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 10% 15%;
+}
+
+.d8{
+    background-image: url(/Img/Vitoria.jpg);
+    background-size: cover;
+    border-radius: 0 0 0 0;
+}
+
+.d9{
+    background-image: url(/Img/Goiania.jpg);
+    background-size: cover;
+    border-radius: 0 0 10% 0;
+}
+
+.d10{
+    background-image: url(/Img/Palmas.jpg);
+    background-size: cover;
+    border-radius: 5% 0 10% 0;
+}
+
+.d11{
+    background-image: url(/Img/Maranhao.jpg);
+    background-size: cover;
+    border-radius: 10% 5% 0 0;
+}
+
+.d12{
+    background-image: url(/Img/Cuiaba.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 10% 0;
+}
+
+.d13{
+    background-image: url(/Img/Campo\ Grande.jpg);
+    background-size: cover;
+    border-radius: 10% 10% 5% 0;
+}
+
+.d14{
+    background-image: url(/Img/Belo_horizonte.jpg);
+    background-size: cover;
+    border-radius: 20% 10% 10% 15%;
+}
+
+.d15{
+    background-image: url(/Img/Belem.png);
+    background-size: cover;
+    border-radius: 0 15% 10% 0;
+}
+
+.d16{
+    background-image: url(/Img/Joao_pessoa.jpg);
+    background-size: cover;
+    border-radius: 0 10% 10% 0;
+}
+
+.d17{
+    background-image: url(/Img/curitiba.jpg);
+    background-size: cover;
+    border-radius: 0 0 10% 15%;
+}
+
+.d18{
+    background-image: url(/Img/Recife.jpg);
+    background-size: cover;
+    border-radius: 0 10% 10% 0;
+}
+
+.d19{
+    background-image: url(/Img/Teresina.jpg);
+    background-size: cover;
+    border-radius: 15% 15% 15% 0;
+}
+
+.d20{
+    background-image: url(/Img/Rio_de_janeiro.jpg);
+    background-size: cover;
+    border-radius: 0 0 0 0;
+}
+
+.d21{
+    background-image: url(/Img/Natal.jpg);
+    background-size: cover;
+    border-radius: 5% 0 0 5%;
+}
+
+.d22{
+    background-image: url(/Img/Porto_Alegre.jpg);
+    background-size: cover;
+    border-radius: 0 15% 10% 0;
+}
+
+.d23{
+    background-image: url(/Img/Porto_velho.jpg);
+    background-size: cover;
+    border-radius: 5% 0 5% 0;
+}
+
+.d24{
+    background-image: url(/Img/Boa_vista.jpg);
+    background-size: cover;
+    border-radius: 0 10% 0 0;
+}
+
+.d25{
+    background-image: url(/Img/Floripa.jpg);
+    background-size: cover;
+    border-radius: 15% 0 0 0;
+}
+
+.d26{
+    background-image: url(/Img/Sao_Paulo.jpg);
+    background-size: cover;
+    border-radius: 10% 10% 0 0;
+}
+
+.d27{
+    background-image: url(/Img/Aracaju.jpg);
+    background-size: cover;
+    border-radius: 15% 10% 15% 0;
+}
+
+p {
+    text-align: left;
+    margin-left: 50px;
+    font-size: 20px;
+    color: gold;
+    text-decoration: solid;
+    
+}
+
+.p1 {
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
