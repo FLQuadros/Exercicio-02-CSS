@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Img/Brasil.jfif);
+    background-image: url(../Img/Brasil.jfif);
     background-size: contain;
 
 }
@@ -45,163 +45,163 @@ section {
 }
 
 .d1{
-    background-image: url(/Img/Rio\ branco.jpg);
+    background-image: url(../Img/Rio\ branco.jpg);
     background-size: cover;
     border-radius: 10% 0 10% 0;
 }
 
 .d2{
-    background-image: url(/Img/Maceió.jpg);
+    background-image: url(../Img/Maceió.jpg);
     background-size: cover;
     border-radius: 0 10% 10% 0;
 }
 
 .d3{
-    background-image: url(/Img/Macapá.jpg);
+    background-image: url(../Img/Macapá.jpg);
     background-size: cover;
     border-radius: 15% 10% 10% 0;
 }
 
 .d4{
-    background-image: url(/Img/Manaus.jpg);
+    background-image: url(../Img/Manaus.jpg);
     background-size: cover;
     border-radius: 15% 10% 10% 0;
 }
 
 .d5{
-    background-image: url(/Img/Salvador.jfif);
+    background-image: url(../Img/Salvador.jfif);
     background-size: cover;
     border-radius: 15% 10% 10% 0;
 }
 
 .d6{
-    background-image: url(/Img/Fortaleza.jpg);
+    background-image: url(../Img/Fortaleza.jpg);
     background-size: cover;
     border-radius: 0 10% 0 10%;
 }
 
 .d7{
-    background-image: url(/Img/Brasilia.jpg);
+    background-image: url(../Img/Brasilia.jpg);
     background-size: cover;
     border-radius: 15% 10% 10% 15%;
 }
 
 .d8{
-    background-image: url(/Img/Vitoria.jpg);
+    background-image: url(../Img/Vitoria.jpg);
     background-size: cover;
     border-radius: 0 0 0 0;
 }
 
 .d9{
-    background-image: url(/Img/Goiania.jpg);
+    background-image: url(../Img/Goiania.jpg);
     background-size: cover;
     border-radius: 0 0 10% 0;
 }
 
 .d10{
-    background-image: url(/Img/Palmas.jpg);
+    background-image: url(../Img/Palmas.jpg);
     background-size: cover;
     border-radius: 5% 0 10% 0;
 }
 
 .d11{
-    background-image: url(/Img/Maranhao.jpg);
+    background-image: url(../Img/Maranhao.jpg);
     background-size: cover;
     border-radius: 10% 5% 0 0;
 }
 
 .d12{
-    background-image: url(/Img/Cuiaba.jpg);
+    background-image: url(../Img/Cuiaba.jpg);
     background-size: cover;
     border-radius: 15% 10% 10% 0;
 }
 
 .d13{
-    background-image: url(/Img/Campo\ Grande.jpg);
+    background-image: url(../Img/Campo\ Grande.jpg);
     background-size: cover;
     border-radius: 10% 10% 5% 0;
 }
 
 .d14{
-    background-image: url(/Img/Belo_horizonte.jpg);
+    background-image: url(../Img/Belo_horizonte.jpg);
     background-size: cover;
     border-radius: 20% 10% 10% 15%;
 }
 
 .d15{
-    background-image: url(/Img/Belem.jfif);
+    background-image: url(../Img/Belem.jfif);
     background-size: cover;
     border-radius: 0 15% 10% 0;
 }
 
 .d16{
-    background-image: url(/Img/Joao_pessoa.jpg);
+    background-image: url(../Img/Joao_pessoa.jpg);
     background-size: cover;
     border-radius: 0 10% 10% 0;
 }
 
 .d17{
-    background-image: url(/Img/curitiba.jpg);
+    background-image: url(../Img/curitiba.jpg);
     background-size: cover;
     border-radius: 0 0 10% 15%;
 }
 
 .d18{
-    background-image: url(/Img/Recife.jpg);
+    background-image: url(../Img/Recife.jpg);
     background-size: cover;
     border-radius: 0 10% 10% 0;
 }
 
 .d19{
-    background-image: url(/Img/Teresina.jpg);
+    background-image: url(../Img/Teresina.jpg);
     background-size: cover;
     border-radius: 15% 15% 15% 0;
 }
 
 .d20{
-    background-image: url(/Img/Rio_de_janeiro.jpg);
+    background-image: url(../Img/Rio_de_janeiro.jpg);
     background-size: cover;
     border-radius: 0 0 0 0;
 }
 
 .d21{
-    background-image: url(/Img/Natal.jpg);
+    background-image: url(../Img/Natal.jpg);
     background-size: cover;
     border-radius: 5% 0 0 5%;
 }
 
 .d22{
-    background-image: url(/Img/Porto_Alegre.jpg);
+    background-image: url(../Img/Porto_Alegre.jpg);
     background-size: cover;
     border-radius: 0 15% 10% 0;
 }
 
 .d23{
-    background-image: url(/Img/Porto_velho.jpg);
+    background-image: url(../Img/Porto_velho.jpg);
     background-size: cover;
     border-radius: 5% 0 5% 0;
 }
 
 .d24{
-    background-image: url(/Img/Boa_vista.jpg);
+    background-image: url(../Img/Boa_vista.jpg);
     background-size: cover;
     border-radius: 0 10% 0 0;
 }
 
 .d25{
-    background-image: url(/Img/Forianopolis.jfif);
+    background-image: url(../Img/Forianopolis.jfif);
     background-size: cover;
     border-radius: 15% 0 0 0;
 }
 
 .d26{
-    background-image: url(/Img/Sao_Paulo.jpg);
+    background-image: url(../Img/Sao_Paulo.jpg);
     background-size: cover;
     border-radius: 10% 10% 0 0;
 }
 
 .d27{
-    background-image: url(/Img/Aracaju.jpg);
+    background-image: url(../Img/Aracaju.jpg);
     background-size: cover;
     border-radius: 15% 10% 15% 0;
 }
